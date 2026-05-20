@@ -286,6 +286,14 @@ Example CMIP6 models:
 
 Rasheed Ahmad (weather and Climate Services Pakistan)
 
-Attaullah (Co-Lead Weather and Climate Services Pakistan)
+Attaullah (Weather and Climate Services Pakistan)
+
+# License
+
+Copyright (c) 2026 Weather and Climate Services Pakistan
+
+This project is intended for research and academic use.  
+Please cite or acknowledge the repository when using the workflow, scripts, or derived products in publications or related work.
+
 
 Climate Extremes and Compound Event Analysis Workflow
